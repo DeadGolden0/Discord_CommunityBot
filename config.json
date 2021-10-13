@@ -1,0 +1,18 @@
+{
+    "Name": "Dead Bot",
+    "token": "ODU2NTQ4MDEwMzkzMzM3ODY2.YNCofw.EWvf586fgXDCVhq2h0vvOyj-Yw4",
+    "prefix": "!",
+    "mongodb_srv": "mongodb+srv://Dead:RNfwTclriWMjbYS3@discordbot.s8utu.mongodb.net/DiscordBotDB?retryWrites=true&w=majority",
+    "color": "#7122E3",
+    "adminRole": "The beast",
+    "ownerid": "285148265962405889",
+    "bugchannelid":"857391947081711616",
+    "logschannel":"856995910110150666",
+    "Mention":"",
+    "serverStats": {
+        "serverid": "856546352133439530",
+        "membres":"856972315790016533",
+        "humains":"856972292802084874",
+        "bots":"856972360371142666"
+    }
+}
