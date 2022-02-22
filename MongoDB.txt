@@ -1,2 +1,2 @@
-User : Dead
-MDP : RNfwTclriWMjbYS3
+User : #Username
+MDP : #Password
