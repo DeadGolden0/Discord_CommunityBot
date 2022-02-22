@@ -4,15 +4,15 @@
     "prefix": "!",
     "mongodb_srv": "#MongoKey",
     "color": "#7122E3",
-    "adminRole": "The beast",
-    "ownerid": "285148265962405889",
-    "bugchannelid":"857391947081711616",
-    "logschannel":"856995910110150666",
+    "adminRole": "#AdminRole",
+    "ownerid": "#OwnerID",
+    "bugchannelid":"#ChannelId",
+    "logschannel":"#LogChannel",
     "Mention":"",
     "serverStats": {
-        "serverid": "856546352133439530",
-        "membres":"856972315790016533",
-        "humains":"856972292802084874",
-        "bots":"856972360371142666"
+        "serverid": "#ChannelId",
+        "membres":"#ChannelId",
+        "humains":"#ChannelId",
+        "bots":"#ChannelId"
     }
 }
