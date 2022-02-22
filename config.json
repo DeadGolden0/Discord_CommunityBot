@@ -1,8 +1,8 @@
 {
     "Name": "Dead Bot",
-    "token": "ODU2NTQ4MDEwMzkzMzM3ODY2.YNCofw.EWvf586fgXDCVhq2h0vvOyj-Yw4",
+    "token": "#token",
     "prefix": "!",
-    "mongodb_srv": "mongodb+srv://Dead:RNfwTclriWMjbYS3@discordbot.s8utu.mongodb.net/DiscordBotDB?retryWrites=true&w=majority",
+    "mongodb_srv": "#MongoKey",
     "color": "#7122E3",
     "adminRole": "The beast",
     "ownerid": "285148265962405889",
